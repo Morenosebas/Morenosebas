@@ -1,4 +1,3 @@
-```md
 🚀 **Bienvenido a mi repositorio de GitHub** 🚀
 
 👨‍💻 **Sobre mí**
@@ -28,4 +27,3 @@ Aquí encontrarás algunos de mis proyectos más recientes:
 Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, puedes contactarme a través de mi correo electrónico johansegom08@gmail.com o en mi perfil de [LinkedIn](https://www.linkedin.com/in/johang31m/).
 
 ¡Gracias por visitar mi repositorio y espero que te gusten mis proyectos! 👨‍💻👩‍💻
-```
