@@ -6,13 +6,13 @@ Soy Johan Sebastian Gonzalez, un desarrollador apasionado por la creación de ap
 🎓 **Habilidades**
 A continuación se presentan mis habilidades y mi nivel de experiencia en cada una de ellas:
 
-- **ReactJS**: ⭐️⭐️⭐️⭐️
-- **React Native**: ⭐️⭐️⭐️
-- **NodeJS**: ⭐️⭐️⭐️⭐️
-- **MongoDB**: ⭐️⭐️⭐️⭐️
-- **PostgreSQL**: ⭐️⭐️⭐️
-- **C++**: ⭐️⭐️⭐️
-- **JavaScript**: ⭐️⭐️⭐️⭐️
+- **ReactJS**: 
+- **React Native**: 
+- **NodeJS**: 
+- **MongoDB**: 
+- **PostgreSQL**: 
+- **C++**: 
+- **JavaScript**: 
 
 💻 **Proyectos**
 Aquí encontrarás algunos de mis proyectos más recientes:
